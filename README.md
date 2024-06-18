@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayanda Makhathini a Software Developer
+- 👋 Hi, I’m Ayanda Makhathini a Software Developer working with ASP .NET
 - 👀 I'm proficient in C#, HTML, JS, and CSS. I'm also interested in Rasberry Pi and Mobile applications development, Data sciences and AI.
 - 🌱 WSO2 API Manager certified.
 - 💞️ I’m looking to collaborate on any projects surrounding my expertise.  
