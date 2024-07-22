@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ayanda Makhathini a Software Developer working with ASP .NET
-- 👀 I'm proficient in C#, HTML, JS, and CSS. I'm also interested in Rasberry Pi and Mobile applications development, Data sciences and AI.
+- 👋 Hi, I’m Ayanda Makhathini a Software Developer working with .NET Framework / .Net Core
+- 👀 Experience with building fullstack applications with C#, HTML, JS, and CSS.
+- ✨ I also have interest in Rasberry Pi and Mobile applications, Data sciences and AI development.
 - 🌱 WSO2 API Manager certified.
 - 💞️ I’m looking to collaborate on any projects surrounding my expertise.  
-- 📫 How to reach me:  ayanda.mak94@gmail.com
+
 
 <!---
 AyandaMak/AyandaMak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
