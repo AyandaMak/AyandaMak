@@ -2,6 +2,7 @@
 - 👀 Experience with building fullstack applications with C#, HTML, JS, and CSS.
 - ✨ I also have interest in Rasberry Pi and Mobile applications, Data sciences and AI development.
 - 🌱 WSO2 API Manager certified.
+- 🌴 Amazon Web Services Cloud Foundations.
 
 
 <!---
